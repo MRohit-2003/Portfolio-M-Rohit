@@ -22,11 +22,11 @@ export default function ContactSection() {
       <Card className="max-w-2xl mx-auto p-6 sm:p-8 shadow-sm border border-gray-100 dark:bg-gray-800 dark:border-gray-700">
         <CardContent className="flex flex-col items-center justify-center gap-8">
           <Link
-            href="mailto:nithyanandvk2005@gmail.com"
+            href="mailto:mrohit582003@gmail.com"
             className="flex items-center space-x-3 text-blue-500 hover:text-blue-600 transition-colors text-lg sm:text-xl font-medium"
           >
             <Mail className="w-6 h-6" />
-            <span>nithyanandvk2005@gmail.com</span>
+            <span>mrohit582003@gmail.com</span>
           </Link>
 
           <div className="w-full border-t border-gray-200 dark:border-gray-700 my-4"></div>
@@ -40,7 +40,7 @@ export default function ContactSection() {
               <Linkedin className="w-6 h-6 text-white" />
             </Link>
             <Link
-              href="mailto:nithyanandvk2005@gmail.com"
+              href="mailto:mrohit582003@gmail.com"
               className="w-12 h-12 bg-green-500 hover:bg-green-600 rounded-full flex items-center justify-center transition-colors group"
             >
               <Mail className="w-6 h-6 text-white" />

@@ -114,14 +114,20 @@ export default function Portfolio() {
 
           {/* CTA and Social Links */}
           <div className="flex flex-col sm:flex-row items-start sm:items-center space-y-4 sm:space-y-0 sm:space-x-4">
-            <Button className="bg-blue-500 hover:bg-blue-600 text-white px-4 sm:px-6 py-2 sm:py-3 rounded-lg flex items-center space-x-2 w-full sm:w-auto justify-center">
-              <span>Contact Me</span>
-              <ArrowRight className="w-4 h-4" />
+            {/* === Primary CTA =================================================== */}
+            <Button
+              asChild
+              className="bg-blue-500 hover:bg-blue-600 text-white px-5 sm:px-6 py-2.5 sm:py-3 rounded-lg flex items-center space-x-2"
+            >
+              <Link href="/contact" className="flex items-center space-x-2">
+                <span>Contact Me</span>
+                <ArrowRight className="w-4 h-4" />
+              </Link>
             </Button>
 
             <div className="flex space-x-3">
               <Link
-                href="#"
+                href="https://www.linkedin.com/in/m-rohit-138a76246"
                 className="w-10 h-10 bg-blue-500 rounded-full flex items-center justify-center transition-colors"
               >
                 <Linkedin className="w-5 h-5 text-white" />
@@ -666,11 +672,13 @@ export default function Portfolio() {
               <span>View Resume</span>
             </Button>
             <Button
-              variant="outline"
-              className="border-blue-500 text-blue-500 hover:bg-blue-50 px-6 py-3 rounded-lg flex items-center space-x-2 w-full sm:w-auto bg-transparent dark:border-blue-700 dark:text-blue-400 dark:hover:bg-blue-900/20"
+              asChild
+              className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg flex items-center space-x-2 w-full sm:w-auto"
             >
-              <Mail className="w-4 h-4" />
-              <span>Contact Me</span>
+              <Link href="/contact" className="flex items-center space-x-2">
+                <Mail className="w-4 h-4" />
+                <span>Contact Me</span>
+              </Link>
             </Button>
           </div>
         </div>
@@ -687,7 +695,10 @@ export default function Portfolio() {
             we can work together.
           </p>
           <Button className="bg-blue-500 hover:bg-blue-600 text-white px-8 py-4 rounded-lg text-lg font-medium">
-            Get In Touch
+            <Link href="/contact" className="flex items-center space-x-2">
+                <Mail className="w-4 h-4" />
+                <span>Contact Me</span>
+              </Link>
           </Button>
         </div>
       </section>
