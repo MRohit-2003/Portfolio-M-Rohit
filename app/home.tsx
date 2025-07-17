@@ -564,7 +564,7 @@ export default function Portfolio() {
                 </div>
               </div>
               <div className="text-right">
-                <p className="text-gray-500 text-sm mb-1 dark:text-gray-400">📅 2020</p>
+                <p className="text-gray-500 text-sm mb-1 dark:text-gray-400">📅 2019</p>
                 <p className="text-blue-500 font-medium">GPA: 9.6/10</p>
               </div>
             </div>
