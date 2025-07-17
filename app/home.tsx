@@ -83,7 +83,7 @@ export default function Portfolio() {
           {/* Badge */}
           <div className="mb-4 sm:mb-6">
             <span className="text-blue-500 text-xs sm:text-sm font-medium">
-              MERN | Java | 2X National AI Hackathon Winner
+              Software Developer | Full Stack | Java 
             </span>
           </div>
 
@@ -108,8 +108,8 @@ export default function Portfolio() {
 
           {/* Description */}
           <p className="text-gray-600 text-base sm:text-lg mb-6 sm:mb-8 leading-relaxed max-w-2xl dark:text-gray-300">
-            Hi there! I create elegant, high-performance web applications that solve real-world problems. Specializing
-            in modern JavaScript frameworks and scalable architecture.
+            Hi there! I create elegant, high-performance software web applications that solve real-world problems. Specializing
+            in modern JavaScript frameworks and scalable architecture with AI integration.
           </p>
 
           {/* CTA and Social Links */}
@@ -133,8 +133,8 @@ export default function Portfolio() {
                 <Linkedin className="w-5 h-5 text-white" />
               </Link>
               <Link
-                href="#"
-                className="w-10 h-10 bg-gray-200 hover:bg-blue-500 rounded-full flex items-center justify-center transition-colors group dark:bg-gray-700 dark:hover:bg-blue-500"
+                href="mailto:mrohit582003@gmail.com"
+                className="w-10 h-10 bg-red-200 hover:bg-blue-500 rounded-full flex items-center justify-center transition-colors group dark:bg-gray-700 dark:hover:bg-red-500"
               >
                 <Mail className="w-5 h-5 text-gray-600 group-hover:text-white dark:text-gray-300" />
               </Link>
@@ -189,15 +189,15 @@ export default function Portfolio() {
             <ul className="space-y-3">
               <li className="flex items-center text-gray-600 dark:text-gray-300">
                 <div className="w-2 h-2 bg-blue-500 rounded-full mr-3"></div>
-                Node.js
+                Node.js, Next.js
               </li>
               <li className="flex items-center text-gray-600 dark:text-gray-300">
                 <div className="w-2 h-2 bg-blue-500 rounded-full mr-3"></div>
-                Express
+                Express.js, Vite, Flask
               </li>
               <li className="flex items-center text-gray-600 dark:text-gray-300">
                 <div className="w-2 h-2 bg-blue-500 rounded-full mr-3"></div>
-                Restful APIs
+                Fast APIs
               </li>
             </ul>
           </div>
@@ -211,7 +211,7 @@ export default function Portfolio() {
             <ul className="space-y-3">
               <li className="flex items-center text-gray-600 dark:text-gray-300">
                 <div className="w-2 h-2 bg-blue-500 rounded-full mr-3"></div>
-                MongoDB & Mongoose
+                MongoDB
               </li>
               <li className="flex items-center text-gray-600 dark:text-gray-300">
                 <div className="w-2 h-2 bg-blue-500 rounded-full mr-3"></div>
@@ -280,7 +280,7 @@ export default function Portfolio() {
               </li>
               <li className="flex items-center text-gray-600 dark:text-gray-300">
                 <div className="w-2 h-2 bg-blue-500 rounded-full mr-3"></div>
-                Event Organization
+                Management
               </li>
               <li className="flex items-center text-gray-600 dark:text-gray-300">
                 <div className="w-2 h-2 bg-blue-500 rounded-full mr-3"></div>
@@ -435,15 +435,12 @@ export default function Portfolio() {
                   <div className="w-4 h-4 bg-blue-500 rounded-full mr-4 mt-2"></div>
                   <div className="flex-1">
                     <h4 className="font-bold text-gray-800 text-base sm:text-lg dark:text-gray-100">
-                      Web Lead & Full Stack Developer
+                      Contributor
                     </h4>
-                    <p className="text-blue-500 font-medium">ISTE MBU & SVEC</p>
-                    <p className="text-gray-500 text-sm mb-3 dark:text-gray-400">2023 - Present</p>
+                    <p className="text-blue-500 font-medium">Social(Formerly Script Foundation)</p>
+                    <p className="text-gray-500 text-sm mb-3 dark:text-gray-400">Jun 2024 - July 2024</p>
                     <p className="text-gray-600 leading-relaxed dark:text-gray-300">
-                      Led the design and development of the official club website using MERN stack. We integrated
-                      authentication, admin panel, and dynamic event features. Mentored students in MERN stack, Java,
-                      Git and led coding events for 500+ participants. Contributed to increasing club registrations
-                      through active engagement and tech initiatives.
+                      Featured an Adavnced Algorithm Analysis Dashboard with ML Insights using React, Node, Express and MongoDB database in a project named SortVision. 
                     </p>
                   </div>
                 </div>
@@ -456,14 +453,14 @@ export default function Portfolio() {
                   <div className="w-4 h-4 bg-blue-500 rounded-full mr-4 mt-2"></div>
                   <div className="flex-1">
                     <h4 className="font-bold text-gray-800 text-base sm:text-lg dark:text-gray-100">
-                      Web Lead & Technical Mentor
+                      Software and Business Developer
                     </h4>
-                    <p className="text-blue-500 font-medium">The Coding Club MBU</p>
-                    <p className="text-gray-500 text-sm mb-3 dark:text-gray-400">2024 - Present</p>
+                    <p className="text-blue-500 font-medium">CODEPLAYERS Business System Private Limited</p>
+                    <p className="text-gray-500 text-sm mb-3 dark:text-gray-400">Jun 2024 - July 2024</p>
                     <p className="text-gray-600 leading-relaxed dark:text-gray-300">
-                      We are developing the Coding Club portal with dynamic UI/UX and event features. Mentored students
-                      in MERN stack, Java, Git and led coding events for 500+ participants. Contributed to increasing
-                      club registrations through active engagement and tech initiatives.
+                      Designed the UI for InfinityX - Progressive Web Application(PWA)
+                      Developed a Grievance Redressal Application Prototype-  Progressive Web Application(PWA)
+                      Designed pitching aids for client interaction using Canva.
                     </p>
                   </div>
                 </div>
@@ -478,11 +475,11 @@ export default function Portfolio() {
                     <h4 className="font-bold text-gray-800 text-base sm:text-lg dark:text-gray-100">
                       GDSC Coordinator
                     </h4>
-                    <p className="text-blue-500 font-medium">Google Developer Student Club, MBU</p>
-                    <p className="text-gray-500 text-sm mb-3 dark:text-gray-400">2023 - 2024</p>
+                    <p className="text-blue-500 font-medium">Internshala Student Ambassador</p>
+                    <p className="text-gray-500 text-sm mb-3 dark:text-gray-400">Jan 2024 - Mar 2024</p>
                     <p className="text-gray-600 leading-relaxed dark:text-gray-300">
-                      Promoted Google programs like Arcade and promoted various tech workshops on cloud, web
-                      development. Encouraged students to complete Google certifications.
+                      Promoted Intershala courses and programs like Excel for Beginners.
+                      Encouraged students to complete Internshala certifications.
                     </p>
                   </div>
                 </div>
@@ -516,18 +513,18 @@ export default function Portfolio() {
                 </div>
                 <div>
                   <h3 className="text-lg sm:text-xl font-bold text-gray-800 dark:text-gray-100">
-                    B-Tech in Computer Science Engineering
+                    B-Tech in Artificial Intelligence and Data Science
                   </h3>
-                  <p className="text-blue-500 font-medium">Mohan Babu University, Tirupati</p>
+                  <p className="text-blue-500 font-medium">ICFAI Foundation of Higher Education(IFHE), Hyderabad</p>
                 </div>
               </div>
               <div className="text-right">
                 <p className="text-gray-500 text-sm mb-1 dark:text-gray-400">📅 2022 - 2026</p>
-                <p className="text-blue-500 font-medium">GPA: 9.81/10</p>
+                <p className="text-blue-500 font-medium">GPA: 8.86/10</p>
               </div>
             </div>
             <p className="text-gray-600 leading-relaxed dark:text-gray-300">
-              Specialized in Software Engineering with a strong focus on full-stack web development, algorithms, and
+              Specialized in Software Engineering with a strong focus on full-stack web development using AI, complex ML algorithms, and
               emerging technologies.
             </p>
           </div>
@@ -541,17 +538,16 @@ export default function Portfolio() {
                 </div>
                 <div>
                   <h3 className="text-lg sm:text-xl font-bold text-gray-800 dark:text-gray-100">Intermediate</h3>
-                  <p className="text-blue-500 font-medium">Sai Sri Chaitanya Junior College, Palamaner</p>
+                  <p className="text-blue-500 font-medium">DAV Public School, Berhampur, Odisha</p>
                 </div>
               </div>
               <div className="text-right">
-                <p className="text-gray-500 text-sm mb-1 dark:text-gray-400">📅 2020 - 2022</p>
-                <p className="text-blue-500 font-medium">GPA: 9.71/10</p>
+                <p className="text-gray-500 text-sm mb-1 dark:text-gray-400">📅 2019 - 2021</p>
+                <p className="text-blue-500 font-medium">GPA: 9.36/10</p>
               </div>
             </div>
             <p className="text-gray-600 leading-relaxed dark:text-gray-300">
-              Completed Intermediate (MPC) at Sai Sri Chaitanya Junior College with 97.1%, securing Town Topper in 1st
-              year.
+              Completed Intermediate (PCMB) at DAV Public School, Berhampur, Odisha with 93.6%, securing a spot among the Top 10 rankers in the entire school and demonstrating consistent academic excellence.
             </p>
           </div>
 
@@ -564,16 +560,16 @@ export default function Portfolio() {
                 </div>
                 <div>
                   <h3 className="text-lg sm:text-xl font-bold text-gray-800 dark:text-gray-100">SSC</h3>
-                  <p className="text-blue-500 font-medium">Ravindra Bharathi School, Palamaner</p>
+                  <p className="text-blue-500 font-medium">DAV Public School, Berhampur, Odisha</p>
                 </div>
               </div>
               <div className="text-right">
                 <p className="text-gray-500 text-sm mb-1 dark:text-gray-400">📅 2020</p>
-                <p className="text-blue-500 font-medium">GPA: 9.88/10</p>
+                <p className="text-blue-500 font-medium">GPA: 9.6/10</p>
               </div>
             </div>
             <p className="text-gray-600 leading-relaxed dark:text-gray-300">
-              Completed 10th class at Ravindra Bharathi School with 98.8%, demonstrating consistent academic excellence.
+              Completed 10th class at DAV Public School, Berhampur, Odisha with 96%, securing a spot among the Top 10 rankers in the entire school.
             </p>
           </div>
         </div>
