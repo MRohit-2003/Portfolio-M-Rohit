@@ -473,9 +473,9 @@ export default function Portfolio() {
                   <div className="w-4 h-4 bg-blue-500 rounded-full mr-4 mt-2"></div>
                   <div className="flex-1">
                     <h4 className="font-bold text-gray-800 text-base sm:text-lg dark:text-gray-100">
-                      GDSC Coordinator
+                      Internshala Student Ambassador
                     </h4>
-                    <p className="text-blue-500 font-medium">Internshala Student Ambassador</p>
+                    <p className="text-blue-500 font-medium">Internshala</p>
                     <p className="text-gray-500 text-sm mb-3 dark:text-gray-400">Jan 2024 - Mar 2024</p>
                     <p className="text-gray-600 leading-relaxed dark:text-gray-300">
                       Promoted Intershala courses and programs like Excel for Beginners.
