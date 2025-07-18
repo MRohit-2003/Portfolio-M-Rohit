@@ -128,13 +128,13 @@ export default function Portfolio() {
             <div className="flex space-x-3">
               <Link
                 href="https://www.linkedin.com/in/m-rohit-138a76246"
-                className="w-10 h-10 bg-white-500 hover:bg-blue-500 rounded-full flex items-center justify-center transition-colors"
+                className="w-10 h-10 bg-gray-300 hover:bg-blue-500 rounded-full flex items-center justify-center transition-colors group dark:bg-gray-700 dark:hover:bg-blue-500"
               >
                 <Linkedin className="w-5 h-5 text-blue-500 group-hover:text-white dark:text-gray-300" />
               </Link>
               <Link
                 href="mailto:mrohit582003@gmail.com"
-                className="w-10 h-10 bg-white-500 hover:bg-blue-500 rounded-full flex items-center justify-center transition-colors group dark:bg-gray-700 dark:hover:bg-red-500"
+                className="w-10 h-10 bg-gray-300 hover:bg-blue-500 rounded-full flex items-center justify-center transition-colors group dark:bg-gray-700 dark:hover:bg-red-500"
               >
                 <Mail className="w-5 h-5 text-red-600 group-hover:text-white dark:text-gray-300" />
               </Link>
