@@ -533,7 +533,7 @@ export default function Portfolio() {
               </div>
               <div className="text-right">
                 <p className="text-gray-500 text-sm mb-1 dark:text-gray-400">📅 2019 - 2021</p>
-                <p className="text-blue-500 font-medium">Percentage: 9.36/10</p>
+                <p className="text-blue-500 font-medium">Percentage: 93.6%</p>
               </div>
             </div>
             <p className="text-gray-600 leading-relaxed dark:text-gray-300">
@@ -555,7 +555,7 @@ export default function Portfolio() {
               </div>
               <div className="text-right">
                 <p className="text-gray-500 text-sm mb-1 dark:text-gray-400">📅 2019</p>
-                <p className="text-blue-500 font-medium">Percentage: 9.6/10</p>
+                <p className="text-blue-500 font-medium">Percentage: 96%</p>
               </div>
             </div>
             <p className="text-gray-600 leading-relaxed dark:text-gray-300">
