@@ -428,7 +428,7 @@ export default function Portfolio() {
                       Contributor
                     </h4>
                     <p className="text-blue-500 font-medium">Social(Formerly Script Foundation)</p>
-                    <p className="text-gray-500 text-sm mb-3 dark:text-gray-400">Jun 2024 - July 2024</p>
+                    <p className="text-gray-500 text-sm mb-3 dark:text-gray-400">Jun 2025 - August 2025</p>
                     <p className="text-gray-600 leading-relaxed dark:text-gray-300">
                       Featured an Adavnced Algorithm Analysis Dashboard with ML Insights using React, Node, Express and MongoDB database in a project named SortVision. 
                     </p>
@@ -510,11 +510,11 @@ export default function Portfolio() {
               </div>
               <div className="text-right">
                 <p className="text-gray-500 text-sm mb-1 dark:text-gray-400">📅 2022 - 2026</p>
-                <p className="text-blue-500 font-medium">GPA: 8.86/10</p>
+                <p className="text-blue-500 font-medium">GPA: 8.88/10</p>
               </div>
             </div>
             <p className="text-gray-600 leading-relaxed dark:text-gray-300">
-              Specialized in Software Engineering with a strong focus on full-stack web development using AI, complex ML algorithms, and
+              Specialized in Software Engineering with a strong focus on full-stack development using AI, complex ML algorithms, and
               emerging technologies.
             </p>
           </div>
