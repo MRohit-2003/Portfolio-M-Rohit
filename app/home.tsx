@@ -651,11 +651,13 @@ export default function Portfolio() {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <Link href="Resume-M Rohit.pdf">
-            <Button className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg flex items-center space-x-2 w-full sm:w-auto">
-              <GraduationCap className="w-4 h-4" />
-              <span>View Resume</span>
-            </Button>
+            <Link href="Resume-M Rohit.pdf" passHref>
+              <Button className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg flex items-center space-x-2 w-full sm:w-auto">
+                <span>
+                  <GraduationCap className="w-4 h-4" />
+                  <span>View Resume</span>
+                </span>
+              </Button>
             </Link>
             <Button
               asChild
