@@ -328,9 +328,9 @@ export default function Portfolio() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-800 text-base sm:text-lg dark:text-gray-100">
-                    3rd Prize- AI Autonomous Hackathon 2025
+                    Scholarship of 5,00,000 for academic excellence
                   </h4>
-                  <p className="text-blue-500 font-medium">V R Siddartha College</p>
+                  <p className="text-blue-500 font-medium">ICFAITECH, IFHE Hyderabad</p>
                   <p className="text-gray-500 text-sm dark:text-gray-400">2025</p>
                 </div>
               </div>
@@ -342,9 +342,10 @@ export default function Portfolio() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-800 text-base sm:text-lg dark:text-gray-100">
-                    Finalist- SASTRA Daksh 2025
+                    Letter of Appreciation by CEO and Business Head
                   </h4>
-                  <p className="text-gray-500 text-sm dark:text-gray-400">2025</p>
+                  <p className="text-blue-500 font-medium">CODEPLAYERS Business Systems Private Limited</p>
+                  <p className="text-gray-500 text-sm dark:text-gray-400">2024</p>
                 </div>
               </div>
 
