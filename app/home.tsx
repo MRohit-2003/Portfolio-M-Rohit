@@ -328,9 +328,9 @@ export default function Portfolio() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-800 text-base sm:text-lg dark:text-gray-100">
-                    3rd Prize- AI Autonomous Hackathon 2025
+                    Scholarship of 5,00,000 for academic excellence
                   </h4>
-                  <p className="text-blue-500 font-medium">V R Siddartha College</p>
+                  <p className="text-blue-500 font-medium">ICFAITECH, IFHE Hyderabad</p>
                   <p className="text-gray-500 text-sm dark:text-gray-400">2025</p>
                 </div>
               </div>
@@ -342,9 +342,10 @@ export default function Portfolio() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-800 text-base sm:text-lg dark:text-gray-100">
-                    Finalist- SASTRA Daksh 2025
+                    Letter of Appreciation by CEO and Business Head
                   </h4>
-                  <p className="text-gray-500 text-sm dark:text-gray-400">2025</p>
+                  <p className="text-blue-500 font-medium">CODEPLAYERS Business Systems Private Limited</p>
+                  <p className="text-gray-500 text-sm dark:text-gray-400">2024</p>
                 </div>
               </div>
 
@@ -355,9 +356,9 @@ export default function Portfolio() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-800 text-base sm:text-lg dark:text-gray-100">
-                    Programming in Java by NPTEL
+                    Responsible and Safe AI Systems
                   </h4>
-                  <p className="text-blue-500 font-medium">Top 5% & Silver Elite</p>
+                  <p className="text-blue-500 font-medium">NPTEL</p>
                   <p className="text-gray-500 text-sm dark:text-gray-400">2024</p>
                 </div>
               </div>
@@ -369,9 +370,9 @@ export default function Portfolio() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-800 text-base sm:text-lg dark:text-gray-100">
-                    Data Structures & Algorithms in Java
+                    Data Processing and Visualization
                   </h4>
-                  <p className="text-blue-500 font-medium">NPTEL</p>
+                  <p className="text-blue-500 font-medium">NASSCOM</p>
                   <p className="text-gray-500 text-sm dark:text-gray-400">2024</p>
                 </div>
               </div>
@@ -383,9 +384,9 @@ export default function Portfolio() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-800 text-base sm:text-lg dark:text-gray-100">
-                    MERN Stack Web Development
+                    Exploratory Data Analysis
                   </h4>
-                  <p className="text-blue-500 font-medium">Apna College</p>
+                  <p className="text-blue-500 font-medium">NASSCOM</p>
                   <p className="text-gray-500 text-sm dark:text-gray-400">2023</p>
                 </div>
               </div>
@@ -397,25 +398,12 @@ export default function Portfolio() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-800 text-base sm:text-lg dark:text-gray-100">
-                    Pearson Mepro English, Hindi Vidwan
+                    Acquiring Data
                   </h4>
-                  <p className="text-blue-500 font-medium">Pearson, Hindi Prachar Sabha</p>
-                  <p className="text-gray-500 text-sm dark:text-gray-400">2023, 2020</p>
+                  <p className="text-blue-500 font-medium">NASSCOM</p>
+                  <p className="text-gray-500 text-sm dark:text-gray-400">2023</p>
                 </div>
               </div>
-
-              {/* CET Ranks */}
-              <div className="flex items-start">
-                <div className="w-10 h-10 bg-yellow-100 rounded-lg flex items-center justify-center mr-4 mt-1 dark:bg-yellow-900/20">
-                  <BarChart3 className="w-5 h-5 text-yellow-600" />
-                </div>
-                <div>
-                  <h4 className="font-bold text-gray-800 text-base sm:text-lg dark:text-gray-100">CET Ranks</h4>
-                  <p className="text-blue-500 font-medium">Andhra Pradesh- 5270, Telangana- 3359</p>
-                </div>
-              </div>
-            </div>
-          </div>
 
           {/* Professional Experience */}
           <div className="bg-white rounded-xl p-8 shadow-sm border border-gray-100 hover:shadow-lg hover:shadow-blue-100 transition-all duration-300 cursor-pointer dark:bg-gray-800 dark:border-gray-700 dark:hover:shadow-blue-900/50">
@@ -438,7 +426,7 @@ export default function Portfolio() {
                       Contributor
                     </h4>
                     <p className="text-blue-500 font-medium">Social(Formerly Script Foundation)</p>
-                    <p className="text-gray-500 text-sm mb-3 dark:text-gray-400">Jun 2024 - July 2024</p>
+                    <p className="text-gray-500 text-sm mb-3 dark:text-gray-400">Jun 2025 - August 2025</p>
                     <p className="text-gray-600 leading-relaxed dark:text-gray-300">
                       Featured an Adavnced Algorithm Analysis Dashboard with ML Insights using React, Node, Express and MongoDB database in a project named SortVision. 
                     </p>
@@ -520,11 +508,11 @@ export default function Portfolio() {
               </div>
               <div className="text-right">
                 <p className="text-gray-500 text-sm mb-1 dark:text-gray-400">📅 2022 - 2026</p>
-                <p className="text-blue-500 font-medium">GPA: 8.86/10</p>
+                <p className="text-blue-500 font-medium">GPA: 8.88/10</p>
               </div>
             </div>
             <p className="text-gray-600 leading-relaxed dark:text-gray-300">
-              Specialized in Software Engineering with a strong focus on full-stack web development using AI, complex ML algorithms, and
+              Specialized in Software Engineering with a strong focus on full-stack development using AI, complex ML algorithms, and
               emerging technologies.
             </p>
           </div>
@@ -543,7 +531,7 @@ export default function Portfolio() {
               </div>
               <div className="text-right">
                 <p className="text-gray-500 text-sm mb-1 dark:text-gray-400">📅 2019 - 2021</p>
-                <p className="text-blue-500 font-medium">GPA: 9.36/10</p>
+                <p className="text-blue-500 font-medium">Percentage: 93.6%</p>
               </div>
             </div>
             <p className="text-gray-600 leading-relaxed dark:text-gray-300">
@@ -559,13 +547,13 @@ export default function Portfolio() {
                   <GraduationCap className="w-6 h-6 text-blue-500" />
                 </div>
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-gray-800 dark:text-gray-100">SSC</h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-gray-800 dark:text-gray-100">Matriculation</h3>
                   <p className="text-blue-500 font-medium">DAV Public School, Berhampur, Odisha</p>
                 </div>
               </div>
               <div className="text-right">
                 <p className="text-gray-500 text-sm mb-1 dark:text-gray-400">📅 2019</p>
-                <p className="text-blue-500 font-medium">GPA: 9.6/10</p>
+                <p className="text-blue-500 font-medium">Percentage: 96%</p>
               </div>
             </div>
             <p className="text-gray-600 leading-relaxed dark:text-gray-300">
@@ -597,14 +585,14 @@ export default function Portfolio() {
               </div>
               <div>
                 <h3 className="text-xl font-bold text-gray-800 dark:text-gray-100">LeetCode</h3>
-                <p className="text-gray-500 dark:text-gray-400">@nithyanandvk2005</p>
+                <p className="text-gray-500 dark:text-gray-400">MRohit-2003</p>
               </div>
             </div>
-            <h4 className="font-bold text-gray-800 text-lg mb-3 dark:text-gray-100">Solved 150+ DSA problems</h4>
+            <h4 className="font-bold text-gray-800 text-lg mb-3 dark:text-gray-100">Solved 50+ DSA problems</h4>
             <p className="text-gray-600 leading-relaxed mb-6 dark:text-gray-300">
               Regularly practice algorithms and data structures, focusing on medium and hard problems.
             </p>
-            <Link href="#" className="text-blue-500 font-medium hover:text-blue-600 transition-colors">
+            <Link href="https://leetcode.com/u/MRohit-2003/" className="text-blue-500 font-medium hover:text-blue-600 transition-colors">
               View Profile →
             </Link>
           </div>
@@ -617,14 +605,14 @@ export default function Portfolio() {
               </div>
               <div>
                 <h3 className="text-xl font-bold text-gray-800 dark:text-gray-100">GitHub</h3>
-                <p className="text-gray-500 dark:text-gray-400">@nithyanandvk</p>
+                <p className="text-gray-500 dark:text-gray-400">MRohit-2003</p>
               </div>
             </div>
-            <h4 className="font-bold text-gray-800 text-lg mb-3 dark:text-gray-100">20+ repositories</h4>
+            <h4 className="font-bold text-gray-800 text-lg mb-3 dark:text-gray-100">10+ repositories</h4>
             <p className="text-gray-600 leading-relaxed mb-6 dark:text-gray-300">
-              Active contributor with various personal and collaborative projects, focusing on web applications.
+              Active contributor with various personal and collaborative projects, focusing on full-stack applications.
             </p>
-            <Link href="#" className="text-blue-500 font-medium hover:text-blue-600 transition-colors">
+            <Link href="https://github.com/MRohit-2003" className="text-blue-500 font-medium hover:text-blue-600 transition-colors">
               View Profile →
             </Link>
           </div>
@@ -637,14 +625,14 @@ export default function Portfolio() {
               </div>
               <div>
                 <h3 className="text-xl font-bold text-gray-800 dark:text-gray-100">HackerRank</h3>
-                <p className="text-gray-500 dark:text-gray-400">@nithyanandvk2005</p>
+                <p className="text-gray-500 dark:text-gray-400">@MRohit_2003</p>
               </div>
             </div>
-            <h4 className="font-bold text-gray-800 text-lg mb-3 dark:text-gray-100">5-Star Java Badge</h4>
+            <h4 className="font-bold text-gray-800 text-lg mb-3 dark:text-gray-100">Beginner</h4>
             <p className="text-gray-600 leading-relaxed mb-6 dark:text-gray-300">
-              Achieved 5-star rating in Java, with expertise in problem-solving and algorithms challenges.
+              Regularly practice algorithms and data structures, focusing on medium and hard problems.
             </p>
-            <Link href="#" className="text-blue-500 font-medium hover:text-blue-600 transition-colors">
+            <Link href="https://www.hackerrank.com/profile/MRohit_2003" className="text-blue-500 font-medium hover:text-blue-600 transition-colors">
               View Profile →
             </Link>
           </div>
@@ -663,10 +651,12 @@ export default function Portfolio() {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+            <a href="Resume-M Rohit.pdf">
             <Button className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg flex items-center space-x-2 w-full sm:w-auto">
               <GraduationCap className="w-4 h-4" />
               <span>View Resume</span>
             </Button>
+            </a>
             <Button
               asChild
               className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg flex items-center space-x-2 w-full sm:w-auto"
