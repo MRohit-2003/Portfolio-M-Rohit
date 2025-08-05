@@ -533,7 +533,7 @@ export default function Portfolio() {
               </div>
               <div className="text-right">
                 <p className="text-gray-500 text-sm mb-1 dark:text-gray-400">📅 2019 - 2021</p>
-                <p className="text-blue-500 font-medium">GPA: 9.36/10</p>
+                <p className="text-blue-500 font-medium">Percentage: 9.36/10</p>
               </div>
             </div>
             <p className="text-gray-600 leading-relaxed dark:text-gray-300">
@@ -555,7 +555,7 @@ export default function Portfolio() {
               </div>
               <div className="text-right">
                 <p className="text-gray-500 text-sm mb-1 dark:text-gray-400">📅 2019</p>
-                <p className="text-blue-500 font-medium">GPA: 9.6/10</p>
+                <p className="text-blue-500 font-medium">Percentage: 9.6/10</p>
               </div>
             </div>
             <p className="text-gray-600 leading-relaxed dark:text-gray-300">
@@ -587,14 +587,14 @@ export default function Portfolio() {
               </div>
               <div>
                 <h3 className="text-xl font-bold text-gray-800 dark:text-gray-100">LeetCode</h3>
-                <p className="text-gray-500 dark:text-gray-400">@nithyanandvk2005</p>
+                <p className="text-gray-500 dark:text-gray-400">MRohit-2003</p>
               </div>
             </div>
-            <h4 className="font-bold text-gray-800 text-lg mb-3 dark:text-gray-100">Solved 150+ DSA problems</h4>
+            <h4 className="font-bold text-gray-800 text-lg mb-3 dark:text-gray-100">Solved 50+ DSA problems</h4>
             <p className="text-gray-600 leading-relaxed mb-6 dark:text-gray-300">
               Regularly practice algorithms and data structures, focusing on medium and hard problems.
             </p>
-            <Link href="#" className="text-blue-500 font-medium hover:text-blue-600 transition-colors">
+            <Link href="https://leetcode.com/u/MRohit-2003/" className="text-blue-500 font-medium hover:text-blue-600 transition-colors">
               View Profile →
             </Link>
           </div>
@@ -607,14 +607,14 @@ export default function Portfolio() {
               </div>
               <div>
                 <h3 className="text-xl font-bold text-gray-800 dark:text-gray-100">GitHub</h3>
-                <p className="text-gray-500 dark:text-gray-400">@nithyanandvk</p>
+                <p className="text-gray-500 dark:text-gray-400">MRohit-2003</p>
               </div>
             </div>
-            <h4 className="font-bold text-gray-800 text-lg mb-3 dark:text-gray-100">20+ repositories</h4>
+            <h4 className="font-bold text-gray-800 text-lg mb-3 dark:text-gray-100">10+ repositories</h4>
             <p className="text-gray-600 leading-relaxed mb-6 dark:text-gray-300">
-              Active contributor with various personal and collaborative projects, focusing on web applications.
+              Active contributor with various personal and collaborative projects, focusing on fullstack applications.
             </p>
-            <Link href="#" className="text-blue-500 font-medium hover:text-blue-600 transition-colors">
+            <Link href="https://github.com/MRohit-2003" className="text-blue-500 font-medium hover:text-blue-600 transition-colors">
               View Profile →
             </Link>
           </div>
@@ -627,12 +627,12 @@ export default function Portfolio() {
               </div>
               <div>
                 <h3 className="text-xl font-bold text-gray-800 dark:text-gray-100">HackerRank</h3>
-                <p className="text-gray-500 dark:text-gray-400">@nithyanandvk2005</p>
+                <p className="text-gray-500 dark:text-gray-400">@MRohit_2003</p>
               </div>
             </div>
-            <h4 className="font-bold text-gray-800 text-lg mb-3 dark:text-gray-100">5-Star Java Badge</h4>
+            <h4 className="font-bold text-gray-800 text-lg mb-3 dark:text-gray-100">Problem-Solving</h4>
             <p className="text-gray-600 leading-relaxed mb-6 dark:text-gray-300">
-              Achieved 5-star rating in Java, with expertise in problem-solving and algorithms challenges.
+              Regularly practice algorithms and data structures, focusing on medium and hard problems.
             </p>
             <Link href="#" className="text-blue-500 font-medium hover:text-blue-600 transition-colors">
               View Profile →
