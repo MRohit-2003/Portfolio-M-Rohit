@@ -106,6 +106,19 @@ export default function Portfolio() {
             </span>
           </h1>
 
+          {/*Profile Picture*/}
+           <div className={styles.profileContainer}>
+             <div className={styles.profileFrame}>
+               <Image
+                src="/profile.jpg"
+                alt="Profile"
+                width={180}
+                height={180}
+                className={styles.profileImage}
+                />
+              </div>
+             </div>
+
           {/* Description */}
           <p className="text-gray-600 text-base sm:text-lg mb-6 sm:mb-8 leading-relaxed max-w-2xl dark:text-gray-300">
             Hi there! I create elegant, high-performance software web applications that solve real-world problems. Specializing
