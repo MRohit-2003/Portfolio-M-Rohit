@@ -651,7 +651,7 @@ export default function Portfolio() {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <Link href="Resume-M Rohit.pdf" passHref>
+            <Link href="https://drive.google.com/file/d/1TY18udKtr5aTSsCAmcincWDu6ObeG8lS/view?usp=drive_link">
               <Button className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg flex items-center space-x-2 w-full sm:w-auto">
                 <span>
                   <GraduationCap className="w-4 h-4" />
