@@ -356,9 +356,9 @@ export default function Portfolio() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-800 text-base sm:text-lg dark:text-gray-100">
-                    Programming in Java by NPTEL
+                    Responsible and Safe AI Systems
                   </h4>
-                  <p className="text-blue-500 font-medium">Top 5% & Silver Elite</p>
+                  <p className="text-blue-500 font-medium">NPTEL</p>
                   <p className="text-gray-500 text-sm dark:text-gray-400">2024</p>
                 </div>
               </div>
@@ -370,9 +370,9 @@ export default function Portfolio() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-800 text-base sm:text-lg dark:text-gray-100">
-                    Data Structures & Algorithms in Java
+                    Data Processing and Visualization
                   </h4>
-                  <p className="text-blue-500 font-medium">NPTEL</p>
+                  <p className="text-blue-500 font-medium">NASSCOM</p>
                   <p className="text-gray-500 text-sm dark:text-gray-400">2024</p>
                 </div>
               </div>
@@ -384,9 +384,9 @@ export default function Portfolio() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-800 text-base sm:text-lg dark:text-gray-100">
-                    MERN Stack Web Development
+                    Exploratory Data Analysis
                   </h4>
-                  <p className="text-blue-500 font-medium">Apna College</p>
+                  <p className="text-blue-500 font-medium">NASSCOM</p>
                   <p className="text-gray-500 text-sm dark:text-gray-400">2023</p>
                 </div>
               </div>
@@ -398,21 +398,10 @@ export default function Portfolio() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-800 text-base sm:text-lg dark:text-gray-100">
-                    Pearson Mepro English, Hindi Vidwan
+                    Acquiring Data
                   </h4>
-                  <p className="text-blue-500 font-medium">Pearson, Hindi Prachar Sabha</p>
-                  <p className="text-gray-500 text-sm dark:text-gray-400">2023, 2020</p>
-                </div>
-              </div>
-
-              {/* CET Ranks */}
-              <div className="flex items-start">
-                <div className="w-10 h-10 bg-yellow-100 rounded-lg flex items-center justify-center mr-4 mt-1 dark:bg-yellow-900/20">
-                  <BarChart3 className="w-5 h-5 text-yellow-600" />
-                </div>
-                <div>
-                  <h4 className="font-bold text-gray-800 text-base sm:text-lg dark:text-gray-100">CET Ranks</h4>
-                  <p className="text-blue-500 font-medium">Andhra Pradesh- 5270, Telangana- 3359</p>
+                  <p className="text-blue-500 font-medium">NASSCOM</p>
+                  <p className="text-gray-500 text-sm dark:text-gray-400">2023</p>
                 </div>
               </div>
             </div>
