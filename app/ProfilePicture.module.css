@@ -1,0 +1,20 @@
+.profileContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.profileFrame {
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  padding: 6px;
+  border-radius: 50%;
+  box-shadow: 0 6px 24px rgba(40, 90, 150, 0.25), 0 1.5px 8px rgba(40, 90, 150, 0.12);
+  display: inline-block;
+}
+
+.profileImage {
+  border-radius: 50%;
+  display: block;
+  background: #fff;
+}
