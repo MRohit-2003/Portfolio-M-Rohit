@@ -634,7 +634,7 @@ export default function Portfolio() {
             <p className="text-gray-600 leading-relaxed mb-6 dark:text-gray-300">
               Regularly practice algorithms and data structures, focusing on medium and hard problems.
             </p>
-            <Link href="#" className="text-blue-500 font-medium hover:text-blue-600 transition-colors">
+            <Link href="https://www.hackerrank.com/profile/MRohit_2003" className="text-blue-500 font-medium hover:text-blue-600 transition-colors">
               View Profile →
             </Link>
           </div>
