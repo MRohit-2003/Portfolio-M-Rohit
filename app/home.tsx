@@ -25,7 +25,7 @@ import { Button } from "@/components/ui/button"
 import { Tooltip, TooltipContent, TooltipTrigger, TooltipProvider } from "@/components/ui/tooltip"
 import Header from "@/components/header"
 import Footer from "@/components/footer"
-
+import React from "react"
 function useTypewriter(text: string, speed = 50) {
   const [displayText, setDisplayText] = useState("")
   const [currentIndex, setCurrentIndex] = useState(0)
