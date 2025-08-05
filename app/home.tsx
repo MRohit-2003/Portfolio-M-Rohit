@@ -113,7 +113,7 @@ export default function Portfolio() {
            <div className={styles.profileContainer}>
              <div className={styles.profileFrame}>
                <Image
-                src="public/images/Student ID.jpg"
+                src="PROFILE_PHOTO.jpg"
                 alt="Profile"
                 width={180}
                 height={180}
