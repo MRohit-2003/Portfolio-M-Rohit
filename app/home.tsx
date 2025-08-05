@@ -1,5 +1,8 @@
 "use client"
 
+import Image from "next/image";
+import styles from "./ProfilePicture.module.css";
+
 import { useState, useEffect } from "react"
 import Link from "next/link"
 import { useTheme } from "next-themes"
@@ -110,7 +113,7 @@ export default function Portfolio() {
            <div className={styles.profileContainer}>
              <div className={styles.profileFrame}>
                <Image
-                src="/profile.jpg"
+                src="/Student ID.jpg"
                 alt="Profile"
                 width={180}
                 height={180}
